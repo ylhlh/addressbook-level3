@@ -45,8 +45,12 @@ Priority | As a ... | I want to ... | So that I can...
 `* * *` | user | add a new person |
 `* * *` | user | delete a person | remove entries that I no longer need
 `* * *` | user | find a person by name | locate details of persons without having to go through the entire list
+`* * *` | user | edit a person's details | update details of persons without having to delete and re-add them
 `* *` | user | hide [private contact details](#private-contact-detail) by default | to minimize chance of someone else seeing them by accident
 `*` | user with many persons in the address book | sort persons by name | locate a person easily
+`*` | user with many persons in the address book | sort persons into different lists | organize my contacts
+`*` | user with multiple computing devices | sync my contact details across my devices | access the updated version of addressbook from any device
+
 
 
 ## Appendix B : Use Cases
