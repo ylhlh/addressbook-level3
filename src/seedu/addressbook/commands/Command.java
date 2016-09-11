@@ -40,6 +40,12 @@ public abstract class Command {
      * Executes the command and returns the result.
      */
     public abstract CommandResult execute();
+    
+    /**
+     * Returns true for command types that mutate the data:
+     * AddCommand, DeleteCommand, ClearCommand.
+     */
+    public abstract boolean isMutating();
 
     /**
      * Supplies the data the command will operate on.
