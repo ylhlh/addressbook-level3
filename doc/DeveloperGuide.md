@@ -84,6 +84,14 @@ Use case ends.
 2. Should be able to hold up to 1000 persons.
 3. Should come with automated unit tests and open source code.
 4. Should favor DOS style commands over Unix-style commands.
+5. Should have minimal startup and processing times.
+6. Should be able to recover from deletion of storage file while program is running.
+7. Should be easy to learn and use.
+8. Should ensure the privacy and security of user data.
+9. Should be reliable.
+10. Should be available even with no internet connectivity.
+11. Should be scalable and maintainable.
+
 
 ## Appendix D : Glossary
 
